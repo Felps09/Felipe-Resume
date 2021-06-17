@@ -24,7 +24,7 @@ Keyholder with excellent customer service skills attending to clients and busine
 Assisted accounting department with financial tasks and responsibilities; demonstrated extreme attention to detail to ensure customers received quality service while working at front office; engaged costumers with a positive and professional attitude.
 
 ## Education
-##### Computer Science Diploma • Langara College • Jan 2020-Present
+Computer Science Diploma • Langara College • Jan 2020-Present
 
 Business management co-op program • SELC • 2019
 
