@@ -1,37 +1,31 @@
-## Welcome to my page
+## Objectives
+Hard-working college student seeking a position in conjunction with current academic studies to further professional development and gain work experience. Primarily looking for positions as a Dev or in IT.
+***
+## Skills
+- HTML, CSS, Java, JavaScript, Bash, React
+- Database, SQL
+- Networking
+- Knowledge in system analysis and design
+- Excellent customer service skills 
+- Strong computer knowledge
+- Office 365
+- Punctual, efficient and attentive to detail 
+- Hands-on learner, acquires new skills easily
+- Flexible and works well with others
+- Learning Swift & Python
 
-You can use the [editor on GitHub](https://github.com/Felps09/Felps09.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Work Experience
+### Key Holder • LINDT & SPRÜNGLI CANADA • FEB 2019-PRESENT
+Keyholder with excellent customer service skills attending to clients and business, stock organization and ordering, logistics, assistance with scheduling, training of employees.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Accounting and Assitant Attendant • R&K DIAGNOSTICO VETERINARIO • JAN 2018– DECEMBER 2018
+Assisted accounting department with financial tasks and responsibilities; demonstrated extreme attention to detail to ensure customers received quality service while working at front office; engaged costumers with a positive and professional attitude.
 
-```markdown
-Syntax highlighted code block
+## Education
+##### Computer Science Diploma • Langara College • Jan 2020-Present
 
-# Header 1
-## Header 2
-### Header 3
+Business management co-op program • SELC • 2019
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Felps09/Felps09.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+High school diploma • Colegio Metodista • 2016
