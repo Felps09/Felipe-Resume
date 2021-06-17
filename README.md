@@ -1,6 +1,6 @@
 ## Objectives
 Hard-working college student seeking a position in conjunction with current academic studies to further professional development and gain work experience. Primarily looking for positions as a Dev or in IT.
-***
+
 ## Skills
 - HTML, CSS, Java, JavaScript, Bash, React
 - Database, SQL
