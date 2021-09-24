@@ -35,7 +35,7 @@ Business management co-op program • SELC • 2019
 
 High school diploma • Colegio Metodista • 2016
 
-##Languages
+## Languages
 English - Fluent
 Portuguese-BR - Fluent
 Spanish - Begginer
