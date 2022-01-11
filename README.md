@@ -34,11 +34,11 @@ Permanent Resident hard-working college student seeking a position in conjunctio
 - Clerical duties at the reception.
 
 ## Education
-Computer Science Diploma • Langara College • Jan 2020-Present
+- Computer Science Diploma • Langara College • Jan 2020-Present
 
-Business management co-op program • SELC • 2019
+- Business management co-op program • SELC • 2019
 
-High school diploma • Colegio Metodista • 2016
+- High school diploma • Colegio Metodista • 2016
 
 ## Languages
 - English - Fluent
