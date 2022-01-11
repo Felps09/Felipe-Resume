@@ -1,6 +1,6 @@
 # Felipe Prudencio
 ## Objectives
-Permanent Resident hard-working college student seeking a position in conjunction with current academic studies to further professional development and gain work experience. Primarily looking for positions as a Dev or in IT.
+Permanent Resident hard-working college student seeking a position in conjunction with current academic studies to further professional development and gain work experience. Primarily looking for positions in IT or in business.
 
 ## Skills
 - HTML, CSS, Java, JavaScript, Bash, React
@@ -26,8 +26,12 @@ Permanent Resident hard-working college student seeking a position in conjunctio
 - Excellent customer service to individuals and business
 - Sales of chocolate products, drinks and gifts daily.
 
-### Accounting and Assitant Attendant • R&K DIAGNOSTICO VETERINARIO • JAN 2018– DECEMBER 2018
-Assisted accounting department with financial tasks and responsibilities; demonstrated extreme attention to detail to ensure customers received quality service while working at front office; engaged costumers with a positive and professional attitude.
+### Administrative Assistant/Accounting Clerk • R&K Diagnostico Veterinario • JAN 2018– DECEMBER 2018
+- Assisted accounting with daily cash logs and receipts.
+- Handled data management of accounts payable and receivable.
+- Extreme attention to detail with customers and files.
+- Engaged customers with a positive and professional attitude.
+- Clerical duties at the reception.
 
 ## Education
 Computer Science Diploma • Langara College • Jan 2020-Present
