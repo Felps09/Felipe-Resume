@@ -1,30 +1,35 @@
 # Felipe Prudencio
 ## Objectives
-Permanent Resident hard-working college student seeking a position in conjunction with current academic studies to further professional development and gain work experience. Primarily looking for positions in IT or in business.
+Permanent Resident hard-working computer science graduate seeking to further professional development and gain work experience. Primarily looking for positions in IT.
 
 ## Skills
 - HTML, CSS, Java, JavaScript, Bash, React
 - Database, SQL
 - Networking
-- Knowledge in system analysis and design
+- Knowledge of system analysis and design
+- Bussines Inteligence
 - Excellent customer service skills 
 - Strong computer knowledge
 - Office 365
-- Punctual, efficient and attentive to detail 
+- Punctual, efficient, and attentive to detail 
 - Hands-on learner, acquires new skills easily
 - Flexible and works well with others
-- Learning Swift & Python
+- Learning Python
 
 
 
 ## Work Experience
-### Key Holder • LINDT & SPRÜNGLI CANADA • FEB 2019-PRESENT
-- Supervise daily transactions of retail store and manage employees to make sure tasks are completed.
-- Bookkeeping of financial transactions and keep track of targets.
-- Manage retail stock inventory and raw products. Ordering and receiving of products.
-- Assist on scheduling and business recap reports as well as checking KPIs
+### Equipment Clerk • Sinclair Dental • MAY 2022 - Present
+-
+
+
+### Key Holder • LINDT & SPRÜNGLI CANADA • FEB 2019-MAY 2022
+- Supervise daily transactions of retail stores and manage employees.
+- Bookkeeping of financial transactions and keeping track of targets.
+- Manage retail stock inventory and ingredients. Ordering and receiving of products.
+- Assist with scheduling and business recap reports as well as checking KPIs
 - Excellent customer service to individuals and business
-- Sales of chocolate products, drinks and gifts daily.
+- Sales of chocolate products, drinks, and gifts daily.
 
 ### Administrative Assistant/Accounting Clerk • R&K Diagnostico Veterinario • JAN 2018– DECEMBER 2018
 - Assisted accounting with daily cash logs and receipts.
@@ -34,7 +39,7 @@ Permanent Resident hard-working college student seeking a position in conjunctio
 - Clerical duties at the reception.
 
 ## Education
-- Computer Science Diploma • Langara College • Jan 2020-Present
+- Computer Science Diploma • Langara College • 2022
 
 - Business management co-op program • SELC • 2019
 
@@ -43,4 +48,4 @@ Permanent Resident hard-working college student seeking a position in conjunctio
 ## Languages
 - English - Fluent
 - Portuguese-BR - Fluent
-- Spanish - Begginer
+- Spanish - Beginner
