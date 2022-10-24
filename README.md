@@ -20,7 +20,11 @@ Permanent Resident hard-working computer science graduate seeking to further pro
 
 ## Work Experience
 ### Equipment Clerk • Sinclair Dental • MAY 2022 - Present
--
+- Assess equipment items returned by dental clinics
+- Process internal stock management via ERP
+- Credit and Rebill customer invoices
+- Efficiently communicate with internal departments
+- Data entry accuretly and effienctly
 
 
 ### Key Holder • LINDT & SPRÜNGLI CANADA • FEB 2019-MAY 2022
